@@ -220,7 +220,7 @@ class Tuning
 {
   public:
     // The number of notes we pre-compute
-    constexpr static int N = 512;
+    constexpr static int N = 2304;
 
     // Construct a tuning with even temperament and standard mapping
     Tuning();
